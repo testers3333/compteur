@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Signika:wght@600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #2F3136;
+}
+
+.div {
+    text-align: center;
+    padding-top: 30%;
+    font-size: 30px;
+    color: #43B581;
+    font-family: 'Capriola', sans-serif;
+}
+
+.x {
+    display: inline-flex;
+}
